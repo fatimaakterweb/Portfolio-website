@@ -37,3 +37,38 @@ section {
 	width:50%;
 	padding:2%;
 }
+
+.three img {
+	width:600px;
+	height:600px;
+}
+h1 {
+	font-size:60px;
+	
+}
+h3 {
+	color:orange;
+}
+.four a {
+	text-decoration:none;
+	background-image:linear-gradient(aqua,royalblue);
+	font-weight:700px;
+	padding:10px;
+	border-radius:20px 20px;
+	transition:.3s;
+}
+.four a:hover{
+	margin:0px 0px 0px 20px;
+}
+.four {
+	width:50%;
+	padding:2%;
+}
+.dream {
+	display: flex;
+}
+.rimu img {
+	height: 300px;
+	width: 100px;
+	margin-top: 80px;
+}
